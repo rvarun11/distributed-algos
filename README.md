@@ -1,3 +1,3 @@
 ## Distributed Algorithms
 
-Implementations of Ssnapshots, Waves, Deadlock Detection, Termination Detection and Garbage Collection algorithms from the book [Distributed Algorithms: An Intuitive Approach](https://mitpress.mit.edu/books/distributed-algorithms-second-edition)
+Implementations of snapshots, waves, deadlock detection, termination detection and garbage collection algorithms from the book [Distributed Algorithms: An Intuitive Approach](https://mitpress.mit.edu/books/distributed-algorithms-second-edition)
